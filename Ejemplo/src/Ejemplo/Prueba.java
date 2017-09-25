@@ -11,6 +11,9 @@ public class Prueba {
     }
     public Prueba(String rut) {
         this.rut = rut;
+
+
+
     }
 
     public String getRut() {
